@@ -5,6 +5,8 @@
 	"vintage_use_clipboard": true,
 	"vintage_ctrl_keys": true,
 	"relative_line_numbers": true,
-	"ignored_packages": [],
+	"ignored_packages": [
+	],
 	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", ".Trash", ".Trash-*", "node_modules"],
+	"theme": "Adaptive.sublime-theme",
 }
